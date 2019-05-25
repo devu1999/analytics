@@ -1,0 +1,46 @@
+#+title: Comparison b/w Google Analytics and Matomo
+#+AUTHOR: Devansh Gupta
+#+DATE: [2018-05-22 Tue]
+#+SETUPFILE: ../../org-templates/level-2.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Points of consideration
+
+|--------------------------+--------------------------|
+| *Feature*                | *more effective tool*    |
+|--------------------------+--------------------------|
+| Easy of use              | Google Analytics         |
+|--------------------------+--------------------------|
+| Features                 | Google  Analytics        |
+|--------------------------+--------------------------|
+| Data manipulation        | Google Analytics, Matomo |
+|--------------------------+--------------------------|
+| Easy to setup            | Google Analytics, Matomo |
+|--------------------------+--------------------------|
+| Custom Segmentation      | Google analytics         |
+|--------------------------+--------------------------|
+| Third party integrations | Google analytics         |
+|--------------------------+--------------------------|
+| Additional goodies       | Google Analytics         |
+|--------------------------+--------------------------|
+| Data ownership           | Matomo                   |
+|--------------------------+--------------------------|
+
+
+* Final Verdict
+
+- given the current state of Matomo it simply does not offer any
+  exceptional, unique features that Google Analytics cannot provide.
+
+- Considering a website without such an enormous traffic ,Google
+  Analytics will do a great job satisfying your analytics
+  requirements. It is easy to set up, and you can be up and running in
+  literally 15 minutes.
+
+- Matomo is a good second alternative, but if you are someone who is
+  going to use the basic set of data and just need to get on with it,
+  then Google analytics should be the go-to software.
+
+*Google Analytics definitely has an upper edge over Matomo*

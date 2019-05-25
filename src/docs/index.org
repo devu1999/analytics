@@ -1,0 +1,17 @@
+#+title:  Documents for UI-analytics
+#+AUTHOR: Devansh Gupta
+#+DATE: [2018-05-14 Mon]
+#+SETUPFILE: ../../org-templates/level-2.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+ Here are the required documents for our project:
+
+
+|--------+-----------------------------------------------------------------------------------+-----------|
+| *SNo.* | *Purpose*                                                                         | *Link*    |
+|--------+-----------------------------------------------------------------------------------+-----------|
+|      1 | Resources like introduction of ui analytics, how to install UI analytics tool,etc | [[./resources_for_ui_analytics.org][resources]] |
+|--------+-----------------------------------------------------------------------------------+-----------|

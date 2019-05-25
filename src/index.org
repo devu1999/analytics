@@ -1,0 +1,85 @@
+#+TITLE: STORY BOARD for UI Analytics
+#+AUTHOR: Devansh Gupta
+#+DATE: [2017-21-05 WED]
+#+SETUPFILE: org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil'
+
+* Introduction
+
+- This is the story board for the UI analytics of the assigned project.
+
+* Scope of Project
+
+  To do the UI analysis of all the expermients of vlabs - IIIT Hyderabad.
+  
+  1) To analyse traffic on the vlabs website.
+
+  2) To collect data and present in a form so that it is
+     easily consumable.
+  3) To save data in form of reports.
+
+* Motivation
+
+  1) Being an experiment related to education sector, it
+     becomes really important to know the reach of project
+     and how useful it is for the consumers. To know which UI
+     analysis is necessary.
+
+  2) Moreover, records and statistics from UI analysis are
+     very helpful in improving the experiment.
+
+* Members
+
+|----------------------+-----------------------------------|
+| *Name*               | Devansh Gupta                     |
+|----------------------+-----------------------------------|
+| *Persuing U.G. in*   | B.tech in CSE                     |
+|----------------------+-----------------------------------|
+| *Institution*        | IIIT- Hyderabad                   |
+|----------------------+-----------------------------------|
+| *Year of Study*      | 1st year                          |
+|----------------------+-----------------------------------|
+| *Phone-No*           | 6395438958                        |
+|----------------------+-----------------------------------|
+| *Email-ID*           | devansh.gupta@students.iiit.ac.in |
+|----------------------+-----------------------------------|
+| *gitlab handle*      | devu1999                          |
+|----------------------+-----------------------------------|
+| *github handle*      | devu1999                          |
+|----------------------+-----------------------------------|
+
+* Running Status
+   |--------+---------------------------------------+---------------+---------------+-----------+-----------|
+   | *SNo.* | *Purpose*                             | *Start Date*  | *End Date*    | *Status*  | *Remarks* |
+   |--------+---------------------------------------+---------------+---------------+-----------+-----------|
+   |      1 | [[https://gitlab.com/groups/vlead-projects/experiments/analytics/-/milestones/1][Collection of resources for analysis]]  | 14th may,2018 | 18th May 2018 | Completed |           |
+   |--------+---------------------------------------+---------------+---------------+-----------+-----------|
+  
+* Documents
+ 
+   |---------+----------------------------+-----------|
+   | *S.No.* | *Title*                    | *link*    |
+   |---------+----------------------------+-----------|
+   |       1 | Requirements               | [[./requirements/requirements.org][link here]] |
+   |---------+----------------------------+-----------|
+   |       2 | Resources for UI analytics | [[./docs/resources_for_ui_analytics.org][link here]] |
+   |---------+----------------------------+-----------|
+   |       3 | Research and findings      | [[./research-findings/index.org][link here]] |
+   |---------+----------------------------+-----------|
+
+
+
+
+* Stakeholders
+ 
+  - College and School Students
+  - Ministry of Human Resource development
+  - teachers
+
+* Project Closure
+
+** User Feedback
+** learnings
+** Experience

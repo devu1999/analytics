@@ -1,0 +1,52 @@
+#+TITLE: Requirements for UI analytics experiment
+#+AUTHOR: VLEAD
+#+DATE: [2016-07-1 Sat]
+#+PROPERTY: results output
+#+PROPERTY: exports code
+#+SETUPFILE: ../org-templates/level-1.org
+#+options: ^:nil
+#+LATEX: Literal LaTeX code for export
+
+* Introduction 
+  The requirements of =UI Analytics experiment= are listed here.
+
+** Requirements
+   - It should keep an eye on the below data for a good overview of your website usability,traffic sources, visitor profiles and conversion statistics.
+
+
+* Stake holders
+
+** Ministry of Human Resource Development(MHRD)
+
+  *Requirements*
+
+ - Since MHRD is the authority funding this project, it becomes very important for them to know how successful the project is. One way to measure it is through counting usages.
+ 
+In reference to our project, when a user visits the introduction page of an experiment and also runs the simulator, then the visit is being counted as visit.
+[[./../research-findings/usages.org][Click here to know more about usages and how to count them]]
+
+
+ - MHRD being a national level ministry, it is also very important for the ministry to know the scalability of the project which can be known by tracing the locations of its users and analysing it.
+
+ - Being an ambitious project of the ministry, if ministry decides to spend on the advertisement of this project, then they would love to know the success of their advertising campaign too.
+
+ - Since there are many institutes on the vlabs website contributing to it, Ministry might want to know which college has better labs, which lab is most used, etc.
+
+** Experiment Developers
+
+ - These are the people who have developed the whole experiment using their expertise and skills.
+   
+   Using Data Analytics, they would like to know the following data:
+
+   1) No. of usages of every experiment. [[./../research-findings/usages.org][click here to konw more]]
+   
+   2) How effective an experiment is ?? To measure the effectiveness,
+      one can interpret data like
+	     1. how much time some user is spending on an average.
+	     2. how many users are leaving the site on a certain page(known as bounce rate),etc.
+
+** Users
+
+ - Whether user is a student or a professor, the most important thing for him/her is the quality and effectiveness of the experiment he is going to work on which is being reflected through number of usages of that experiment.
+
+ - He/She would like to know which labs are better, which experiments are better,etc

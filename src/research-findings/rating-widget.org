@@ -1,0 +1,25 @@
+#+title:  Implementing ratings on a page
+#+AUTHOR: Devansh Gupta
+#+DATE: [2018-07-10 Tue]
+#+SETUPFILE: ../../org-templates/level-2.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+
+  in order to take reviews from a user, one of the most common method
+  is to ask for ratings from the user. Thus, capturing ratings can be
+  used as an important tool in ui-analytics.
+
+
+* Implementation
+
+  Implementing ratings on your own will require creating and handling
+  database and dealing with many special cases. This can be bulky and
+  tiresome to implement.
+
+  Online world is full of websites which provide rating widgets. These
+  widgets are highly customizable and can be moulded as per needs.One
+  such website is [[widgetpack.com][widgetpack.com]]. API provided by the site can be
+  directly included in the code to get rating widget implemented.

@@ -1,0 +1,56 @@
+#+title:  Research on Google Analytic Tool
+#+AUTHOR: Devansh Gupta
+#+DATE: [2018-05-22 Tue]
+#+SETUPFILE: ../../org-templates/level-2.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+
+1) Google Analytics is a freemium web analytics service offered by
+Google that tracks and reports website traffic.
+
+2) most widely used web analytics service on the Internet.
+
+3) Google Analytics is offered in two additional versions.
+   1) Google Analytics 360 : 
+   	  - targeted at enterprise users.
+   2) Google analytics for Mobile Apps:
+   	  - an SDK that allows gathering usage data from iOS and Android
+           Apps.
+
+* Features
+
+1) Integrated with *AdWords*, users can now review online campaigns by
+   tracking landing page quality and conversions (goals).
+
+2) Google Analytics' approach is to *show high-level, dashboard*-type
+   data for the casual user, and more *in-depth data* further into the
+   report set.
+
+3) can identify poorly performing pages with techniques such as funnel
+   visualization, *where visitors came from (referrers), how long they
+   stayed on the website* and their *geographical position*.
+
+4) Google Analytics *e-commerce reporting* can track sales activity and
+   performance.
+
+5) Google Analytics also has *Real Time analytics*, enabling a user to
+   have insight about visitors currently on the site.
+
+
+* Limitations
+
+1) Due to its ubiquity, Google Analytics raises some privacy concerns.
+
+2) Without cookies being set, Google Analytics cannot collect data. Any
+   individual web user can block or delete cookies resulting in the
+   data loss of those visits for Google Analytics users.
+
+3) Moreover, since its database is not in your hand, you cannot play
+   with it and thus, cannot customize for your own website.
+
+* Demo
+  
+  [[https://analytics.google.com/analytics/web/?authuser=1#/report-home/a119318181w176680866p175501181][Click here to see a demo for Google Analytic tool]]

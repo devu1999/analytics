@@ -1,0 +1,49 @@
+#+title:  Research on Matomo
+#+AUTHOR: Devansh Gupta
+#+DATE: [2018-05-22 Tue]
+#+SETUPFILE: ../../org-templates/level-2.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+ - *Matomo* (formerly *Piwik*) is an free and open source web analytics tool.
+ 
+ - It is a replacement for propreity software in the field with full
+   API support, a cleaner UI, modern graphs, better architecture and
+   better performance.
+
+ - Runs on PHP/MySQL webserver.
+ 
+
+* Features
+
+ - *A/B testing* - compares analytic record for a page against two
+    different session to determine which one performs better.
+
+ - *Funnel Analytics* - involves using a series of events that lead
+    towards a defined goal, like from user engagement in a mobile app
+    to a sale in an eCommerce platform or advertisement to purchase in
+    online advertising.
+
+ - *Heatmap* - visualize Website Traffic Patterns.
+
+ - *Cost Per Click(CPC)* - means that you pay for each click on your ads. 
+
+ - Tracking and Reporting API.
+
+A full list of features from Matomo is [[https://matomo.org/features/][here]].
+
+* Limitations
+	
+1) Matomo's information representation is largely unclear and the
+   real-time function does not serve a definite purpose as it should.
+
+2) Matomo does not share data on the screen so the screens are not consistent.
+
+3) Custom reporting is missing in Matomo.
+
+
+* Demo
+
+ [[10.2.59.228/piwik][click here to see a demo on Matomo]]

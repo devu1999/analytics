@@ -1,0 +1,24 @@
+* RESOURCES
+
+** INTRODUCTION TO UI ANALYTICS
+
+ Google Analytics Academy has a series of video tutorials for all those who have no idea what UI analytics is.
+
+- [[https://analytics.google.com/analytics/academy/course/6/unit/1/lesson/1?authuser=1][Why digital analytics]] 
+- [[https://analytics.google.com/analytics/academy/course/6/unit/1/lesson/2?authuser=1][How google analytics work]]
+- [[https://analytics.google.com/analytics/academy/course/6/unit/1/lesson/3?authuser=1][Google analytics setup]]
+- [[https://analytics.google.com/analytics/academy/course/6/unit/1/lesson/4?authuser=1][How to set up views with filters]]
+
+ and many more videos and demos to help one out in google analytics layout, basic reporting and basic campaign and conversion tracking
+
+
+** BEST UI analytics tool 
+
+- [[https://www.inc.com/guides/12/2010/11-best-web-analytics-tools.html][11 best web analytics tools]]
+
+** INTRODUCTION TO MATOMO(PIWIK)
+
+- [[https://developer.matomo.org/][official website of matomo(formerly piwik)]]
+- [[https://www.optimizesmart.com/introduction-to-piwik-best-google-analytics-alternative/][best alternative for google analytics]]
+- [[https://www.youtube.com/results?search_query=installing+matomo][installing matomo - Youtube]]
+- [[https://matomo.org/docs/installation/#set-up-your-first-website][installing matomo - official website]]

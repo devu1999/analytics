@@ -1,0 +1,17 @@
+#+title:  Requirements for UI-analytics
+#+AUTHOR: Devansh Gupta
+#+DATE: [2018-05-21 Mon]
+#+SETUPFILE: ../../org-templates/level-2.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+ Here are the requirements which are to be fulfilled by my project:
+
+
+|--------+------------------------------+-----------|
+| *SNo.* | *Purpose*                    | *Link*    |
+|--------+------------------------------+-----------|
+|      1 | Requirements to be fulfilled | [[./requirements.org][resources]] |
+|--------+------------------------------+-----------|

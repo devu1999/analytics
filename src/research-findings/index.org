@@ -1,0 +1,21 @@
+#+title:  Research and findings in UI-analytics
+#+AUTHOR: Devansh Gupta
+#+DATE: [2018-05-22 Tue]
+#+SETUPFILE: ../../org-templates/level-2.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+ Here is the research work done to complete the project:
+
+
+|--------+------------------------+-----------|
+| *SNo.* | *Purpose*              | *Link*    |
+|--------+------------------------+-----------|
+|      1 | Google analytic tool   | [[./google-api.org][link here]] |
+|--------+------------------------+-----------|
+|      2 | Matomo(piwik)          | [[./matomo.org][link here]] |
+|--------+------------------------+-----------|
+|      3 | which one is better ?? | [[./compare.org][link here]] |
+|--------+------------------------+-----------|

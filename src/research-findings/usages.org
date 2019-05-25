@@ -1,0 +1,47 @@
+#+title: Research on usages
+#+AUTHOR: Devansh Gupta
+#+DATE: [2018-05-29 Tue]
+#+SETUPFILE: ../../org-templates/level-2.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* What is usages ?
+
+- When an user reaches the introduction page of an experiment and from
+  there, he/she also goes for the simulator of that experiment,then
+  this action is counted in usages for that experiment.
+
+* how to count usages ?
+
+- Usages can be counted by interpreting contents of the matomo
+  database and using sql commands to filter content as per
+  requirements. [[https://developer.matomo.org/guides/persistence-and-the-mysql-backend][Click here to read more about matomo database]].
+
+** findings
+
+  some important points are as follows:
+  
+  - There is a table in the database =matomo_log_action= which maps an
+    unique id(idaction_name) to every action which can be performed on
+    the website e.g.,navigating to different pages,clicking on some
+    buttons, downloading content,etc.
+
+ - There is an another table =matomo_log_link_visit_action= which
+   contains the list of all the actions visiters have performed.
+
+   
+   So, if we filter the table on the basis of actions performed which
+   can be easily done by filtering on the basis of *idaction_name*, we
+   can look for the common visitors for different actions and the
+   count of them will give the number of usages.
+   
+   *so command will look like* -
+ 	
+	select count(distinct dt2.idvisitor) from (select * from
+	matomo_log_link_visit_action where idaction_name = 4) dt1,
+	(select * from matomo_log_link_visit_action where idaction_name =1
+	) dt2 where dt1.idvisitor = dt2.idvisitor;
+	
+ 	(idaction_name will vary for different pages which should be used
+ 	simultaneously for the action to be counted as usage).
