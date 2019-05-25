@@ -1,0 +1,29 @@
+* UI analysis
+
+  - Project important to analysis all the experiments of vlabs IIIT hyderabad.
+    [[./src/docs/resources_for_ui_analytics.org][click here to know more about UI analytics]]
+
+* Repository
+
+Structure
+#+BEGIN_EXAMPLE
+ui-analytics/
+|--- README.org
+|--- make_config.sample
+|--- init.sh
+|--- makefile
+|--- src/
+	|--- index.org (Storyboard of the project)
+	|--- docs/
+		|--- index.org
+		|--- resources_for_ui_analytics.org
+	|--- requirements/
+		|--- index.org
+		|--- requirements.org
+	|--- research-findings/
+		|--- index.org
+		|--- compare.org
+		|--- google-api.org
+		|--- matomo.org
+#+END_EXAMPLE
+
